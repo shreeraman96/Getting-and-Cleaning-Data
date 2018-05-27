@@ -21,7 +21,7 @@ The code book contains the required information about the variables in the outpu
 	  * 6 LAYING
 	  
 ## Measurement Variables
-	#### Mean variables (Time domain)
+####	 Mean variables (Time domain)
 		  * tBodyAccMeanX
 		  * tBodyAccMeanY
 		  * tBodyAccMeanZ 
@@ -43,7 +43,7 @@ The code book contains the required information about the variables in the outpu
 		  * tBodyGyroMagMean 
 		  * tBodyGyroJerkMagMean 
 
-	#### Mean variables (Frequency domain)
+#### 	Mean variables (Frequency domain)
 		  * fBodyAccMeanX 
 		  * fBodyAccMeanY 
 		  * fBodyAccMeanZ 
@@ -68,7 +68,7 @@ The code book contains the required information about the variables in the outpu
 		  * fBodyBodyAccJerkMagMeanFrequency 
 		  * fBodyBodyGyroMagMean 
 		  
-	#### Standard Deviation variables (Time domain)
+#### 	Standard Deviation variables (Time domain)
 		  * tBodyAccStandardDeviationX 
 		  * tBodyAccStandardDeviationY 
 		  * tBodyAccStandardDeviationZ 
@@ -90,7 +90,7 @@ The code book contains the required information about the variables in the outpu
 		  * tBodyGyroMagStandardDeviation 
 		  * tBodyGyroJerkMagStandardDeviation 
 
-	#### Standard Deviation variables (Frequency domain)
+#### 	Standard Deviation variables (Frequency domain)
 		  * fBodyAccStandardDeviationX 
 		  * fBodyAccStandardDeviationY 
 		  * fBodyAccStandardDeviationZ 
