@@ -1,12 +1,12 @@
 # Getting-and-Cleaning-Data Course Project - overview
 
-##The project repository includes the following files
+## The project repository includes the following files
 	* A readme "README.md" file that gives an overview of the project
 	* A "Codebook.md" is a codebook that includes information about the variables in the DataSet
 	* An R script "run_analysis.R" which extracts the required tidy dataset and writes the table into a text document
 	* A text document "tidyoutputtable.txt" which contains the tidy dataset required.
 
-##Note:
+## Note:
 	* The following package is required to be installed before the script is executed - "dplyr"
 	
 ## How it works!!!
